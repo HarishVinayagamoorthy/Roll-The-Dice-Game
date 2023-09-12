@@ -21,9 +21,10 @@ body{
     height: 70vh;
  flex-direction: column;
 }
+
 .main-container p{
     color: green;
-    font-size: 25px;
+    font-size: 20px;
    
 
 }
